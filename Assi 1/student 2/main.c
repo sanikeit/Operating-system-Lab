@@ -1,7 +1,3 @@
-// 190001016
-// Garvit Galgat
-// Assignment 1 (Final)
-
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
